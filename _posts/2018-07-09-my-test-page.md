@@ -2,8 +2,8 @@
 title: My Test Page
 layout: default
 date: 2018-07-09
-comments: true
 image: /images/golden.jpg
+comments: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus tortor eu dolor sollicitudin, venenatis consectetur turpis interdum. Duis placerat magna sed metus semper, non varius ante dignissim. Nulla eget tortor mauris. Nulla blandit purus id metus blandit commodo. Integer urna enim, tristique vel euismod eleifend, posuere vel eros. Curabitur tempor pulvinar orci, a efficitur nisl tristique eget. Pellentesque sed porttitor ipsum. Maecenas consectetur neque ligula, vel dapibus turpis cursus id. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae nisl ut purus dignissim bibendum gravida a lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut massa massa, aliquet sit amet vehicula non, congue sit amet velit.
