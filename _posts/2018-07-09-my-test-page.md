@@ -2,6 +2,7 @@
 title: My Test Page
 layout: default
 date: 2018-07-09
+comments: true
 image: /images/golden.jpg
 ---
 
