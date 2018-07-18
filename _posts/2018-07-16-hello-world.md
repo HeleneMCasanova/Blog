@@ -1,7 +1,7 @@
 ---
 title: Hello World...Hello Blog!
 layout: default
-date: 2018-07-16
+date: 2018-07-18
 image: /images/golden.jpg
 comments: true
 ---
