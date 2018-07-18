@@ -21,7 +21,7 @@
             </div>
         </header>
         <div class="about-the-blog">
-                <img src="images/TP-logo.png" class="image"/>
+                <img src="images/TP-logo.png" class="image" />
                 <p>{{ site.description }}</p>
         </div>
         <div class="posts post-area">
@@ -30,7 +30,9 @@
                               <li class="post-title-text">
                                 <a href="{{ post.url }}">{{ post.title }}</a>
                                 <li>{{ post.date | date_to_string }}</li>
+                                <li><img src="{{ post.image }}" style="width:50%;height:50%;" /></li>
                                 <li>{{ post.excerpt }}</li>
+                                <a href="{{ post.url }}">Read More...</a> 
                               </li>
                             {% endfor %}
                 </ul>
