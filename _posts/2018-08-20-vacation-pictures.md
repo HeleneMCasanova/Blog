@@ -2,7 +2,7 @@
 title: Vacation Pictures
 layout: default
 date: 2018-08-29
-image: /images/Vacay_1/1.jpg
+image: /images/Vacay_1/25.jpg
 comments: true
 ---
 
