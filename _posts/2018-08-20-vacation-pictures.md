@@ -2,8 +2,11 @@
 title: Vacation Pictures
 layout: default
 date: 2018-08-29
+image: /images/Vacay_1/1.jpg
 comments: true
 ---
+
+<p>Just some vacation pictures. These were all taken in Paris and Barcelona.</p>
 
 <center><img src="../../../images/Vacay_1/1.jpg" style="width:50%;height:50%;"/></center>
 <center><img src="../../../images/Vacay_1/2.jpg" style="width:50%;height:50%;"/></center>
